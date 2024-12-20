@@ -1,4 +1,4 @@
-# Operating System HW: Parallel and Serial Processing of Data Packets
+# Operating Systems HW: Parallel and Serial Processing of Data Packets
 
 ## Project Description
 This project demonstrates different parallel computing techniques for processing data packets in a high-performance system. The goal is to compute the result of raising elements of one packet to the power of the corresponding elements in another packet.
