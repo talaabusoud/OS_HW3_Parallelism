@@ -1,0 +1,9 @@
+# Ignore compiled object files
+*.o
+*.out
+
+# Ignore shared memory files
+/tmp/
+
+# Ignore FIFO files
+*.fifo
