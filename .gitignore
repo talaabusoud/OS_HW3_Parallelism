@@ -1,0 +1,15 @@
+# Ignore Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore directories you don't need
+/AppData/
+/node_modules/
+/.DS_Store
+/.vscode
+/.idea
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
