@@ -1,15 +1,9 @@
-# Ignore Windows-specific files
-Thumbs.db
-Desktop.ini
+# Ignore compiled object files
+*.o
+*.out
 
-# Ignore directories you don't need
-/AppData/
-/node_modules/
-/.DS_Store
-/.vscode
-/.idea
+# Ignore shared memory files
+/tmp/
 
-# Ignore compiled files
-*.exe
-*.dll
-*.so
+# Ignore FIFO files
+*.fifo
